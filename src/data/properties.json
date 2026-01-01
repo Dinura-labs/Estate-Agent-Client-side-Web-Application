@@ -1,0 +1,128 @@
+[
+  {
+    "id": "p1",
+    "type": "House",
+    "price": 450000,
+    "bedrooms": 3,
+    "dateAdded": "2025-10-15",
+    "postcode": "BR1",
+    "location": "Bromley, London",
+    "description": "A beautiful Victorian house with a large garden.",
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=800",
+      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=800",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e?w=800"
+    ]
+  },
+  {
+    "id": "p2",
+    "type": "Flat",
+    "price": 275000,
+    "bedrooms": 2,
+    "dateAdded": "2025-11-01",
+    "postcode": "NW1",
+    "location": "Camden Town, London",
+    "description": "Modern flat close to the tube station.",
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800",
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=800",
+      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=800",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e?w=800"
+    ]
+  },
+  {
+    "id": "p3",
+    "type": "House",
+    "price": 650000,
+    "bedrooms": 4,
+    "dateAdded": "2025-09-20",
+    "postcode": "BR1",
+    "location": "Sundridge Park, Bromley",
+    "description": "Spacious family home with double garage.",
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=800",
+      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=800",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e?w=800"
+    ]
+  },
+  {
+    "id": "p4",
+    "type": "Flat",
+    "price": 320000,
+    "bedrooms": 1,
+    "dateAdded": "2025-12-01",
+    "postcode": "NW1",
+    "location": "Regents Park, London",
+    "description": "Luxury apartment with park views.",
+    "images": [
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=800",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=800",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e?w=800"
+    ]
+  },
+  {
+    "id": "p5",
+    "type": "House",
+    "price": 550000,
+    "bedrooms": 3,
+    "dateAdded": "2025-10-05",
+    "postcode": "SE1",
+    "location": "Southwark, London",
+    "description": "Renovated townhouse near the river.",
+    "images": [
+      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=800",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=800",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e?w=800"
+    ]
+  },
+  {
+    "id": "p6",
+    "type": "Flat",
+    "price": 400000,
+    "bedrooms": 2,
+    "dateAdded": "2025-11-20",
+    "postcode": "BR1",
+    "location": "Bickley, Bromley",
+    "description": "Ground floor flat with private entrance.",
+    "images": [
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e?w=800",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=800",
+      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=800"
+    ]
+  },
+  {
+    "id": "p7",
+    "type": "House",
+    "price": 800000,
+    "bedrooms": 5,
+    "dateAdded": "2025-08-15",
+    "postcode": "NW1",
+    "location": "Primrose Hill, London",
+    "description": "Exclusive property with stunning city views.",
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=800",
+      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=800",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e?w=800"
+    ]
+  }
+]
